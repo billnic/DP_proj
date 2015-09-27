@@ -1,0 +1,9 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId:
+        https://api.rpubs.com/api/v1/document/114204/005d524285664bb3a959323108236148
+bundleId:
+        https://api.rpubs.com/api/v1/document/114204/005d524285664bb3a959323108236148
+url: http://rpubs.com/Billnic/114204
+when: 1443396440.2227
